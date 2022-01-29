@@ -1,4 +1,4 @@
-## Hi, I am SriTeja!
+## Hi, I am Sriteja!
 
 ### I'm currently working on :
 

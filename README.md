@@ -1,25 +1,5 @@
 ## Hi, I am Sriteja!
 
-### I'm currently working on :
-
-- Tailwind CSS
-- React 
-
-### Languages :
-
-- HTML
-- CSS
-- JavaScript
-- Python
-- Bash
-
-### Platforms and Tools:
-
-- Linux 
-- Android 
-- GitHub
-- Visual Studio Code 
-
 ### Things I love to talk about:
 
 - Android & Custom ROMS
